@@ -120,6 +120,13 @@
   display: flex;
 }
 
+.form {
+  background-color: #DDDDDD;
+  height: 90px;
+  padding: 20px 40px;
+  display: flex;
+}
+
 .form_input {
   background-color: white;
   width: 100%;
@@ -143,7 +150,7 @@
   padding: 0 20px;
 }
 
-.form-image {
+.form_image {
   font-size: 12px;
   background-color: lightblue;
   color: white;
